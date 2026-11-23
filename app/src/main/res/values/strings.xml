@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoChat-AI</string>
+    <string name="accessibility_service_description">Trợ lý AutoChat-AI dùng quyền Trợ năng để đọc tin nhắn trong cuộc trò chuyện đang mở trên Messenger/Zalo và tự động điền + bấm nút Gửi khi bạn bật nút nổi Canh Chat.</string>
+</resources>
